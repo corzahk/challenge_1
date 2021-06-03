@@ -163,4 +163,8 @@ body {
   .container__information--title {
     margin: 20px auto;
   }
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
 }
